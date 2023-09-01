@@ -1,0 +1,4 @@
+venv/
+bkdata/
+__pycache__/
+.chainlit/
